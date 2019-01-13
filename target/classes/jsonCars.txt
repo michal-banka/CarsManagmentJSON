@@ -1,0 +1,38 @@
+[
+    {
+        "car": {
+            "model": "FERRARI",
+            "price": "1652000",
+            "color": "RED",
+            "mileage": "42000",
+            "components": ["ABS", "Winter tires", "Nitro"]
+        }
+    },
+    {
+        "car": {
+            "model": "LAMBORGHINI",
+            "price": "2149000",
+            "color": "YELLOW",
+            "mileage": "25000",
+            "components": ["Turbo", "Extra cup holder", "Big spoiler"]
+        }
+    },
+    {
+            "car": {
+                "model": "MERCEDES BENZ",
+                "price": "50200",
+                "color": "SILVER",
+                "mileage": "74000",
+                "components": ["Black seats", "Fridge", "Big spoiler", "Bigger spoiler"]
+            }
+    },
+    {
+            "car": {
+                "model": "BMW",
+                "price": "29000",
+                "color": "ORANGE",
+                "mileage": "25000",
+                "components": ["Black paint", "Big wheels", "Big spoiler"]
+            }
+    }
+]
